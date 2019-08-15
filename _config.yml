@@ -1,28 +1,28 @@
 # Basic
-title: 返同学
+title: 瞿晶
 subtitle: 个人站
-description: 点我头像进入我的博客~
+description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: quking
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+avatarDesc: 大数据 / 机器学习
+url: "https://quking.github.io"
 
 # Comment
 comment:
-    disqus: leopard
+    disqus: king
     # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    weibo: 红字V
+    github: quking
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    jianshu: 暂无
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: qujing1996@163.com
 
 
 # 百度统计 
@@ -41,7 +41,7 @@ ga:
 #
 #
 #  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
+#  帮忙star一下，感谢~😆 地址： https://github.com/quking/quking.github.io
 #
 #
 # 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
