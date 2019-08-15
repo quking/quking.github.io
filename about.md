@@ -14,20 +14,12 @@ title: 关于我
 <p>
 
 <h3> 瞿晶的博客 </h3>  
-
 <p>
 
-如果你想搭建一个跟我一样的博客，可以看我的 
-<a href="/2016/10/jekyll_tutorials1/"> Jekyll 搭建个人博客 </a>
-教程
+博客中如果存在一些错误的地方，可以联系我的邮箱 qujing1996@163.com or quking1996@gmail.com，感谢各位的指正。希望大家能共同学习进步。以前一直在CSDN写博客，后面因为CSDN博客的页面布局是不太喜欢，转到现在这里，CSDN我也会同期更新，谢谢各位读者同行朋友的喜欢。
 
-<p>
 
-有关于博客主题的建议和意见都可以提给我，让我们一起来打造一个精美的主题吧~ 
-
-<p> 
-
-博客源码在 <a target="_blank" href='https://github.com/quking/quking.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
+我有一些开源项目，大家可以去博客源码在 <a target="_blank" href='https://github.com/quking'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
 
 <p> 
 
