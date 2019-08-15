@@ -19,11 +19,12 @@ title: 关于我
 
 
 <p>
- 博客中如果存在一些错误的地方，可以联系我的邮箱 qujing1996@163.com or quking1996@gmail.com，感谢
+ 博客中如果存在一些错误的地方，可以联系我的邮箱 <strong>qujing1996@163.com</strong> or <strong>quking1996@gmail.com</strong>，感谢
 <p>
- 各位的指正。希望大家能共同学习进步。以前一直在CSDN写博客，后面因为CSDN博客的页面布局是不太喜欢，转到现在这里，CSDN我也会同期更新，谢谢各位读者同行朋友的喜欢。
+ 各位的指正。希望大家能共同学习进步。以前一直在CSDN写博客，后面因为CSDN博客的页面布局是不太喜欢，转到现在<p>
+ 这里，CSDN我也会同期更新，谢谢各位读者同行朋友的喜欢。
 <p>
-    我有一些开源项目，大家可以去博客源码在 <a target="_blank" href='https://github.com/quking'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
+    我有一些开源项目，大家可以去看看源码在 <a target="_blank" href='https://github.com/quking'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
 <p>
 
 <p> 

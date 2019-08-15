@@ -1,45 +1,9 @@
-<section class="post-comments">
-
-  {% if site.comment.uyan %}
-    <div id="uyan_frame"></div>
-
-    <script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid="+'{{ site.comment.uyan }}'></script>
-
-  {% elsif site.comment.disqus %}
-    <div id="disqus_thread"></div>
-    <script>
-    
-    var disqus_config = function () {
-        this.page.url = "{{ page.url | prepend: site.baseurl | prepend: site.url }}";
-        this.page.identifier = "{{ page.url }}";
-    };
-    var disqus_shortname = '{{ site.comment.disqus }}';
-    
-    (function() { // DON'T EDIT BELOW THIS LINE
-        var d = document, s = d.createElement('script');
-        s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-            (d.head || d.body).appendChild(s);
-        })();
-    </script>
-    <noscript>要查看<a href="http://disqus.com/?ref_noscript"> Disqus </a>评论，请启用 JavaScript</noscript>
-    
-
-  {% elsif site.comment.gitment %}
-    <div id="gitmentContainer"></div>
-    <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
-    <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
-    <script>
-    var gitment = new Gitment({
-        owner: 'leopardpan',
-        repo: 'https://github.com/leopardpan/leopardpan.github.io',
-        oauth: {
-            client_id: 'e6985f41e0e58342914c',
-            client_secret: '5a3d118560cb291bcde05eda2f8e854f95b53db0',
-        },
-    });
-    gitment.render('gitmentContainer');
-    </script>
-  {% endif %}
-
-</section>
+<!--PC和WAP自适应版-->
+<div id="SOHUCS" sid="cyunYGF9h" ></div> 
+<script type="text/javascript"> 
+(function(){ 
+var appid = 'cyunYGF9h'; 
+var conf = 'prod_9fd629397e2e521c7a375f7c5d2affec'; 
+var width = window.innerWidth || document.documentElement.clientWidth; 
+if (width < 960) { 
+window.document.write('<script id="changyan_mobile_js" charset="utf-8" type="text/javascript" src="http://changyan.sohu.com/upload/mobile/wap-js/changyan_mobile.js?client_id=' + appid + '&conf=' + conf + '"><\/script>'); } else { var loadJs=function(d,a){var c=document.getElementsByTagName("head")[0]||document.head||document.documentElement;var b=document.createElement("script");b.setAttribute("type","text/javascript");b.setAttribute("charset","UTF-8");b.setAttribute("src",d);if(typeof a==="function"){if(window.attachEvent){b.onreadystatechange=function(){var e=b.readyState;if(e==="loaded"||e==="complete"){b.onreadystatechange=null;a()}}}else{b.onload=a}}c.appendChild(b)};loadJs("http://changyan.sohu.com/upload/changyan.js",function(){window.changyan.api.config({appid:appid,conf:conf})}); } })(); </script>
